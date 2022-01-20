@@ -1,0 +1,20 @@
+{
+  "10001" : {
+    "name" : "Один",
+    "cost" : 1,
+    "description" : "Product 1 description",
+    "image" : "images/product_1.jpg"
+  },
+  "10002" : {
+    "name" : "Два",
+    "cost" : 2,
+    "description" : "Product 2 description",
+    "image" : "images/product_2.jpg"
+  },
+  "10003" : {
+    "name": "Три",
+    "cost": 3,
+    "description": "Product 3 description",
+    "image": "images/product_3.jpg"
+  }
+}
